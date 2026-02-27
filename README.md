@@ -63,4 +63,12 @@ The database consists of four tables:
 ---
 
 ## 📁 Files
+- schema.sql
+- sample_data.sql
 - analysis.sql (full SQL queries)
+
+## 📦 How to Use This Project
+
+1. Run `schema.sql` to create tables
+2. Run `sample_data.sql` to insert sample data
+3. Execute queries in `analysis.sql`
